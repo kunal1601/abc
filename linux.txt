@@ -1,2 +1,2 @@
 hii
-[A[B[A[Bhello
+hello
